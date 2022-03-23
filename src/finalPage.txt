@@ -1,0 +1,8 @@
+
+so far we learne fit flow for 
+commit --> push
+
+and 
+
+ remote ->
+ pu
